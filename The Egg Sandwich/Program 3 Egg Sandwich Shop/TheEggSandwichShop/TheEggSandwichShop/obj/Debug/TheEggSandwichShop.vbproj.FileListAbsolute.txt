@@ -1,0 +1,22 @@
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jrivera15\Projects\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.exe.config
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jrivera15\Projects\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.exe
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jrivera15\Projects\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.pdb
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jrivera15\Projects\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.xml
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jrivera15\Projects\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.vbprojResolveAssemblyReference.cache
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jrivera15\Projects\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.TheEggSandwichShop.resources
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jrivera15\Projects\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.Resources.resources
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jrivera15\Projects\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.vbproj.GenerateResource.Cache
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jrivera15\Projects\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.exe
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jrivera15\Projects\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.xml
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jrivera15\Projects\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.pdb
+E:\Projects\The Egg Sandwich\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.exe.config
+E:\Projects\The Egg Sandwich\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.exe
+E:\Projects\The Egg Sandwich\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.xml
+E:\Projects\The Egg Sandwich\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.pdb
+E:\Projects\The Egg Sandwich\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.exe
+E:\Projects\The Egg Sandwich\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.pdb
+E:\Projects\The Egg Sandwich\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.xml
+E:\Projects\The Egg Sandwich\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.vbprojResolveAssemblyReference.cache
+E:\Projects\The Egg Sandwich\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.TheEggSandwichShop.resources
+E:\Projects\The Egg Sandwich\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.Resources.resources
+E:\Projects\The Egg Sandwich\Program 3 Egg Sandwich Shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.vbproj.GenerateResource.Cache
